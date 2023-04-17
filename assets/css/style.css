@@ -316,11 +316,10 @@ h6 {
 }
 
 #hero .social-links {
-  margin-top: 30px;
+  margin-top: 15px;
 }
 
 #hero .social-links a {
-  font-size: 4vw;
   display: inline-block;
   color: rgb(243,243,243);
   line-height: 1;
